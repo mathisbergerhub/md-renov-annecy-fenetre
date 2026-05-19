@@ -144,3 +144,5 @@ vite.config.ts.timestamp-*
 
 # Campaign source documents
 *.docx
+
+.vercel
